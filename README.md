@@ -5,6 +5,6 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 
 ### GitHub Page 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://github.com/kishnendu/Data-Science-Projects)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://github.com/kishnendu/Business-Analytics)
 
 
