@@ -8,6 +8,7 @@ This portfolio project leverages Power BI Desktop and Excel to empower businesse
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
+
 ![Customer Churn Dashboard](https://github.com/kishnendu/Business-Analytics/blob/main/Customer%20Churn%20Risk%20Analysis/Customer%20Churn%20Dashboard.png)
 
 Visualize Your Success:
@@ -25,6 +26,7 @@ Visualize Your Success:
 ✅ Enhance customer satisfaction: Gain deeper understanding of customer needs and tailor service experiences accordingly.
 
 ✅ Data-driven decision making: Empower business leaders with actionable insights to make informed decisions about customer engagement and retention strategies.
+
 ![Customer Risk Analysis](https://github.com/kishnendu/Business-Analytics/blob/main/Customer%20Churn%20Risk%20Analysis/Customer%20Risk%20Analysis.png)
 
 ## **Beyond the Dashboard: Communication for Impact**
