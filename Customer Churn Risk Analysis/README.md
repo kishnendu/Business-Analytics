@@ -39,4 +39,5 @@ Visualize Your Success:
 🔷 Prompted action: I provided specific recommendations and next steps, empowering the client to leverage the data for immediate improvement.
 
 This communication bridge ensured the project's success wasn't confined to the dashboard, but translated into tangible results for the client's business.
+
 ![Email](https://github.com/kishnendu/Business-Analytics/blob/main/Customer%20Churn%20Risk%20Analysis/Email.png)
