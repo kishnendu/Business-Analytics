@@ -17,7 +17,7 @@ Visualize Your Success:
 2. Excel
 
 ## Key Insights or Findings:
-![key insights](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/af60d484-23ad-4c03-ad5a-fc9af7ea0af4)
+![key insights](https://github.com/kishnendu/Business-Analytics/blob/main/Customer%20Churn%20Risk%20Analysis/keyinsights.png)
 
 
 ## **Benefits:**
@@ -39,4 +39,4 @@ Visualize Your Success:
 🔷 Prompted action: I provided specific recommendations and next steps, empowering the client to leverage the data for immediate improvement.
 
 This communication bridge ensured the project's success wasn't confined to the dashboard, but translated into tangible results for the client's business.
-![Email](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/bfa991d6-c901-4a80-b43b-f8a8c8c54aeb)
+![Email](https://github.com/kishnendu/Business-Analytics/blob/main/Customer%20Churn%20Risk%20Analysis/Email.png)
